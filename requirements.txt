@@ -1,0 +1,14 @@
+name: '532'
+channels:
+  - conda-forge
+dependencies:
+  - python[version='<=3.12']
+  - altair
+  - shinywidgets
+  - shiny
+  - palmerpenguins
+  - anywidget
+  - seaborn
+  - plotly
+  - ridgeplot
+prefix: /Users/devon/miniforge3/envs/532
